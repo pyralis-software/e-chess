@@ -1,6 +1,7 @@
 # Technical Details
 
 ε Chess is an app built using React Native via Expo and runs in any browser as well as a "real" iOS and Android app.
+It is a version of chess where the pieces can move fractional amounts, and was inspired by [AnalogChess](https://github.com/ehulinsky/AnalogChess).
 The core technologies should allow us to run on MacOS and Windows as well, though some of the tooling is not quite
 there yet. We are using the following high level things:
 
